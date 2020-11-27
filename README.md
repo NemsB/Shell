@@ -7,5 +7,5 @@ Ma présentation portera sur le shell.
 # 2- Histoire du shell
 # 2- Types de shell existant
 # 3-a- Les variables
-#   b- Les conditions
-#   c- Les boucles
+# **b- Les conditions
+# **c- Les boucles
