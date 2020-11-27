@@ -3,10 +3,7 @@
 Ma présentation portera sur le shell.
 
 # SOMMAIRE
-### 1- [Définition du shell](https://github.com/NemsB/Shell/blob/main/README.md#1--définition-du-shell)
-### 2- Histoire du shell
-### 2- Types de shell existant
-### 3-a- Les variables
+### 1- [Définition du shell](https://github.com/NemsB/Shell/blob/main/definition.md#1--quest-ce-que-le-shell-)
 ### 3-b- Les conditions
 ### 3-c- Les boucles
 
