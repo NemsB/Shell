@@ -1,6 +1,6 @@
 # Shell
 
-Ma présentation portera sur le shell.
+Ma présentation portera sur le shell. Nous étudirons tout les points de ce sommaire.
 
 # SOMMAIRE
 ### 1- [Définition du shell](https://github.com/NemsB/Shell/blob/main/definition.md#1--quest-ce-que-le-shell-)
