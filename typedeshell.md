@@ -1,4 +1,4 @@
-## Types de shell 
+## TYPES DE SHELL 
 
 Il estiste 6 principaux types de shell . 
 
