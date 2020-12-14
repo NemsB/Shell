@@ -22,6 +22,10 @@ Voici un exemple (echo permet d'afficher le contenu d'une fonction):
 Le contenu d'une variable peut être modifié autant fois que l'ont souhaite. Tout comme le 'nom' du contenu qui ne se supprimera pas tant que la variable existera.
 De plus pour être bien sur que nous sommes dans un script, il faut qu'il y est #!/bin/bash dans le contenu du fichier où est situé la variable, sinon cela ne marchera pas.
 
+Il y a aussi les  variables que nous n'avons pas créer, qui sont déjà contenu dans notre système. Il s'agit des variables d'environnement.
+Ces variables sont exclusivement écrites en majuscule. 
+
+Voici quelques unes : USER (ou LOGNAME) = nom de l'utilisateur  •  HOME = nom du répertoire personnel  •  SHELL = nom du shell utilsé  •  PATH =  liste de répertoires dans lesquels le shell va chercher les commandes  •  EDITOR =  nom de l'éditeur de textes préféré  
 
 
 
