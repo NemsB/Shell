@@ -15,6 +15,8 @@ Le système d'exploiation, également connu sous le nom de OS (initiales de Oper
 Le système d'exploition se divise en trois parties distinctes : le Kernel, puis le Shell et enfin les Applications.
 
 http://www.linux-france.org/prj/embedded/sdcc/images/os.png
+
        Kernel
+       
 Comme la tradiction laisse à deviner, il s'agit du noyau du système d'exploitation                                                                                • Gère les ressources et permet aux différents composants matériels et logiciels de communiquer entre eux                                                            • 
        
