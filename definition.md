@@ -25,11 +25,14 @@ http://www.linux-france.org/prj/embedded/sdcc/images/os.png
        
     - Gestion du matériel (mémoire, processeur, périphérique, stockage)
        
-  ### Shell
+  ### :Shell:
     - Interface système ou coque logicielle
     
     - Communique avec l'OS par intermédiaire d'une langage de commande
     
     - Interpréteur de commande
     
-  ### Application
+  ### :Application:
+    - Programmme (ou logiciel) pour réaliser une tâche 
+    
+    - S'éxécute en utilisant les services de l'OS pour utiliser les ressources matérielles
