@@ -29,9 +29,7 @@ http://www.linux-france.org/prj/embedded/sdcc/sdcc_course.dev_os.html
     - Interface système ou coque logicielle
     
     - Communique avec l'OS par intermédiaire d'une langage de commande
-    
-
-    
+   
     - Interpréteur de commande
     
   ### :Application: 
