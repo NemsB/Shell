@@ -17,13 +17,14 @@ Le système d'exploition se divise en trois parties distinctes : le Kernel, puis
 http://www.linux-france.org/prj/embedded/sdcc/images/os.png
 
    ### Kernel
-       - Comme la tradiction laisse à deviner, il s'agit du noyau du système d'exploitation                                                                                  
+    - Comme la tradiction laisse à deviner, il s'agit du noyau du système d'exploitation                                                                                  
        
-       - Gère les ressources et permet aux différents composants matériels et logiciels de communiquer entre eux  
+    - Gère les ressources et permet aux différents composants matériels et logiciels de communiquer entre eux  
        
-       - Gestion des divers logiciels (tâche) de la machine ( lancement des programmes,…)
+    - Gestion des divers logiciels (tâche) de la machine ( lancement des programmes,…)
        
-       - Gestion du matériel (mémoir, processeur, périphérique, stockage)
+    - Gestion du matériel (mémoire, processeur, périphérique, stockage)
        
   ### Shell
+    h
        
