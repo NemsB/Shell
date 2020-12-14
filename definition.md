@@ -14,7 +14,7 @@ Le système d'exploiation, également connu sous le nom de OS (initiales de Oper
 
 Le système d'exploition regroupe ces trois parties distinctes : le Kernel, puis le Shell et enfin les Applications.
 
-http://www.linux-france.org/prj/embedded/sdcc/sdcc_course.dev_os.html
+https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.linux-france.org%2Fprj%2Fembedded%2Fsdcc%2Fimages%2Fos.png&imgrefurl=http%3A%2F%2Fwww.linux-france.org%2Fprj%2Fembedded%2Fsdcc%2Fsdcc_course.dev_os.html&tbnid=1BNkQWeAEx7FzM&vet=12ahUKEwjg2amqgs7tAhUPmhoKHRLgBAwQMygBegUIARCmAQ..i&docid=OxEimeBTiPRwLM&w=686&h=475&q=syst%C3%A9me%20d%27exploitation%20kernel%20shell%20app&ved=2ahUKEwjg2amqgs7tAhUPmhoKHRLgBAwQMygBegUIARCmAQ
 
    ### :Kernel:
     - Comme la traduction laisse à deviner, il s'agit du noyau du système d'exploitation                                                                                  
