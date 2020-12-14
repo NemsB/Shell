@@ -44,3 +44,5 @@ https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.linux-france.org%2Fprj%2Fe
 
 Le shell lui est un programme qui reçoit _des commandes_, tapper par l'utilisateur, qui ensuite va les transmettre au système d'exploitation, qui _les éxécutera_.
 L'utilisateur transmet les commandes au shell directement via le terminal de la console 
+
+[Shell/shoot/Capture d’écran 2020-12-14 à 21.31.37.png]
