@@ -1,4 +1,4 @@
-## DEFINTION
+## DEFiNiTiON
 
 ### Qu'est-ce que le shell ?
 
