@@ -10,7 +10,9 @@ Pour mieux comprendre la notion du SHELL, je vais expliquer la notion de *systè
 
 ### Le système d'exploitation
 
-Le système d'exploiation, également connu sous le nom de OS (initiales de Operating System) est un environnement console, et aussi un programme de base qui contrôle les différents composants de l'apparteil informatique à la suite d'instructions du logiciel ou de l'utilisateur. L'OS sert entre autre à assruer la connection entre ce que l'ont appelle le HardWare (qui veux dire en français matériel), donc les composants matérielles de la machine, et le SoftWare (qui veux dire en français logiciel) qui correspond entre autre aux applications.
+Le système d'exploiation, également connu sous le nom de OS (initiales de Operating System) est un environnement console, et aussi un programme de base qui contrôle les différents composants de l'apparteil informatique à la suite d'instructions du logiciel ou de l'utilisateur. 
+
+L'OS sert entre autre à assruer la connection entre ce que l'ont appelle le HardWare (qui veux dire en français matériel), donc les composants matérielles de la machine, et le SoftWare (qui veux dire en français logiciel) qui correspond entre autre aux applications.
 
 Le système d'exploition regroupe ces trois parties distinctes : le Kernel, puis le Shell et enfin les Applications.
 
@@ -43,7 +45,10 @@ https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.linux-france.org%2Fprj%2Fe
 ### Revenons en au Shell
 
 Le shell lui est un programme qui reçoit _des commandes_, tapper par l'utilisateur, qui ensuite va les transmettre au système d'exploitation, qui _les exécutera_.
-L'utilisateur transmet les commandes au shell depuis le clavier, directement via le terminal de la console. Chaque machine à son terminal propre à sa marque, qui ne sont pas parametré de la même façon et n'ont pas forcément les même fonctionnalitées non plus. Mais celle-ci peuvent être changées pour intégrer un nouvelle type de shell (chapitre que nous verrons prochainement). 
+
+L'utilisateur transmet les commandes au shell depuis le clavier, directement via le terminal de la console. 
+
+Chaque machine à son terminal propre à sa marque, qui ne sont pas parametré de la même façon et n'ont pas forcément les même fonctionnalitées non plus. Mais celle-ci peuvent être changées pour intégrer un nouveau type de shell (chapitre que nous verrons prochainement). 
 
 Le shell sert également a automatiser des actions, tout un code long a retapper, cela se nomme les Script Shell (que nous verrons par la suite).
 
