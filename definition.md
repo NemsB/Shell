@@ -34,9 +34,12 @@ http://www.linux-france.org/prj/embedded/sdcc/sdcc_course.dev_os.html
     
     - Interpréteur de commande
     
-  ### :Application:
+  ### :Application: 
     - Programmme (ou logiciel) pour réaliser une tâche 
     
     - S'éxécute en utilisant les services de l'OS pour utiliser les ressources matérielles
 
 => Pour conclure sur cette notion de sysytème d'exploitation, on peux dire que l'OS est un programme système qui interconnecte le Kernel, le Shell et les Applications entre eux.
+
+
+### Revenons en au Shell
