@@ -19,6 +19,9 @@ Voici un exemple (echo permet d'afficher le contenu d'une fonction):
     exemple
     @utilisateur ~ %
 
+Le contenu d'une variable peut être modifié autant fois que l'ont souhaite. Tout comme le 'nom' du contenu qui ne se supprimera pas tant que la variable existera.
+De plus pour être bien sur que nous sommes dans un script, il faut qu'il y est #!/bin/bash dans le contenu du fichier où est situé la variable, sinon cela ne marchera pas.
+
 
 
 
