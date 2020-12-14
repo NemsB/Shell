@@ -3,5 +3,6 @@
 ### Qu'est-ce que le shell ?
 
 Pour faire simple, le shell est entre autre ce qui permet le bon fonctionnement d'un ordre donné par un utisateur à sa machine.
-##précisement## le shell est interpréteur de commandes données par l'utilisateur de la machine, que notre *système d'exploitation* exécutera dans la foulée.
+Plus précisement le shell est interpréteur de commandes données par l'utilisateur de la machine, que notre *système d'exploitation* exécutera dans la foulée.
 
+Pour mieux comprendre la notion du SHELL, je vais expliquer la notion de *système d'exploitation* puisque le shell fait partie à part entière de ce systyème.`
