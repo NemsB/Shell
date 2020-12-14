@@ -25,7 +25,24 @@ De plus pour être bien sur que nous sommes dans un script, il faut qu'il y est 
 Il y a aussi les  variables que nous n'avons pas créer, qui sont déjà contenu dans notre système. Il s'agit des variables d'environnement.
 Ces variables sont exclusivement écrites en majuscule. 
 
-Voici quelques unes : USER (ou LOGNAME) = nom de l'utilisateur  •  HOME = nom du répertoire personnel  •  SHELL = nom du shell utilsé  •  PATH =  liste de répertoires dans lesquels le shell va chercher les commandes  •  EDITOR =  nom de l'éditeur de textes préféré  
+En voilà quelques unes : USER (ou LOGNAME) = nom de l'utilisateur  •  HOME = nom du répertoire personnel  •  SHELL = nom du shell utilsé  •  PATH =  liste de répertoires dans lesquels le shell va chercher les commandes  •  EDITOR (ou VISUAL) =  nom de l'éditeur de textes préféré 
+
+#### Variable dans Script Shell
+
+Nous pouvons illustrer ceci à travers un exemple.
+Nous allons créer un ficher shell puis ensuite modifier le contenu du fichier pour y écrire un petit programme. Après il faudra lui donner les permissions et après exécuter.
+
+       @utilisateur ~ % touch test.sh
+       @utilisateur ~ % cat test.sh
+       var=exemple
+       
+       echo $var
+       @utilisateur ~ % chmod 777 test.sh
+       @utilisateur ~ % go run test.sh
+       exemple
+       
+Voilà à travers l'exemple, le principe d'une variable dans Scrpt Shell.
+
 
 
 
