@@ -1,6 +1,6 @@
 # Shell
 
-Ma présentation portera sur le shell puisque je possède un mac. J'espère expliquer le mieux possible le fonction de ce que l'ont nomme Shell.
+Ma présentation portera sur le shell puisque je possède un mac. J'espère expliquer le mieux possible le fonctionnement de ce que l'ont nomme Shell.
 
 Nous étudierons tout les points de ce sommaire.
 
