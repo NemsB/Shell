@@ -42,7 +42,21 @@ https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.linux-france.org%2Fprj%2Fe
 
 ### Revenons en au Shell
 
-Le shell lui est un programme qui reçoit _des commandes_, tapper par l'utilisateur, qui ensuite va les transmettre au système d'exploitation, qui _les éxécutera_.
-L'utilisateur transmet les commandes au shell directement via le terminal de la console 
+Le shell lui est un programme qui reçoit _des commandes_, tapper par l'utilisateur, qui ensuite va les transmettre au système d'exploitation, qui _les exécutera_.
+L'utilisateur transmet les commandes au shell depuis le clavier, directement via le terminal de la console. Chaque machine à son terminal propre à sa marque, qui ne sont pas parametré de la même façon et n'ont pas forcément les même fonctionnalitées non plus. Mais celle-ci peuvent être changées pour intégrer un nouvelle type de shell (chapitre que nous verrons prochainement). 
 
-[Shell/shoot/Capture d’écran 2020-12-14 à 21.31.37.png]
+Le shell sert également a automatiser des actions, tout un code long a retapper, cela se nomme les Script Shell (que nous verrons par la suite).
+
+ Concrêtement le shell sert à :
+     
+     - intéragir avec le système de la machine
+     - automatiser des actions avec le Script Shell
+     - exécuter des commandes
+     - créer, supprimer et modifier des fichiers et dossiers
+     - explorer l'arborécance d'un système 
+     - gérer les permissions
+     - ...
+
+
+
+
