@@ -1,6 +1,8 @@
 # Shell
 
-Ma présentation portera sur le shell puisque je possède un mac. Nous étudirons tout les points de ce sommaire.
+Ma présentation portera sur le shell puisque je possède un mac. J'espère expliquer le mieux possible le fonction de ce que l'ont nomme Shell.
+
+Nous étudierons tout les points de ce sommaire.
 
 ## SOMMAiRE
 ### 1- [Définitions](https://github.com/NemsB/Shell/blob/main/definition.md#1--quest-ce-que-le-shell-)
