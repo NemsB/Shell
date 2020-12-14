@@ -1,6 +1,7 @@
 ## Type de shell 
 
 Il estiste 6 principaux types de shell . 
+
 Dans l'ordre hiérarchique les voici : Bourne Shell, C Shell, Bourne Again Shell, Korn Shell, Tenex C Shell et Zorn shell.
  
 
@@ -8,7 +9,7 @@ Dans l'ordre hiérarchique les voici : Bourne Shell, C Shell, Bourne Again Shell
 
 • csh : C Shell => C'est un shell utilisant une syntaxe proche du langage C.
 
-• ksh : Korn Shell => Il s'agit d'un shell puissant qui est plutot présent sur les Unix propriétaires mais aussi disponible en version libre, il compatible avec le  $$$$$$$$$$$$$$$$$$$$$$Bourn Shell.
+• ksh : Korn Shell => Il s'agit d'un shell puissant qui est plutot présent sur les Unix propriétaires mais aussi disponible en version libre, il compatible avec le Bourn Shell.
 
 • bash : Bourne Again Shell => Il est disponible sur Linux et Mac OS X, c'est l'amélioration du Bourne Shell comme le précise son nom.
 
