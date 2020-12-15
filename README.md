@@ -8,7 +8,7 @@ Nous étudierons tout les points de ce sommaire.
 ### 1- [Définitions](https://github.com/NemsB/Shell/blob/main/definition.md#1--quest-ce-que-le-shell-)
 ### 2- [Histoire du shell](https://github.com/NemsB/Shell/blob/main/histoire.md)
 ### 3- [Type de shell existant](https://github.com/NemsB/Shell/blob/main/typedeshell.md#type-de-shell)
-### 4- [Commande Shell](https://github.com/NemsB/Shell/blob/main/commande.md)
+### 4- [Commandes](https://github.com/NemsB/Shell/blob/main/commande.md)
 ### 5- [Script shell](https://github.com/NemsB/Shell/blob/main/scriptshell.md)
    a° [Les variables](https://github.com/NemsB/Shell/blob/main/variable.md#les-variables)
    b° [Les conditions](https://github.com/NemsB/Shell/blob/main/condition.md#les-conditions)
