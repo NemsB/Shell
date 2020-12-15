@@ -6,7 +6,7 @@ Une condition permet d'exécuter une opération SI la contidion est vérifiée p
 
 Autrement dit, SI la réponse rentre dans les critères de la condition, ALORS cela affichera un certain résulat. Et SI la réponse ne rentre pas dans les critères de la condition, ALORS il affichera un autre résultat.
 
-### Code
+## Code
 
 Pour coder une condition, il y a cinq mots de base :
 
@@ -18,13 +18,27 @@ Pour coder une condition, il y a cinq mots de base :
  
  Cela resemblera à cela :
  
-    if [condition a verifer], then
+    if [condition a vérifer], then
       si la condition est vérifiée, afficher/effectuer ...
     else
       si la condition n'est pas vérifiée, afficher/effectuer ...
     fi
  
- 
+## Exemple
+
+Si la condtion est vérifié, alors le résulat sera 'Okkkk boyyyy', si se sera 'fallait avoir la ref mec'.
+
+Tout d'abord le _code_ 
+
+      if [ $1 = "DAMMMMMMN"], then
+            echo "Okkkk boyyyy"
+      else
+            echo "fallait avoir la ref mec"
+      fi
+
+Maintenant quand on test le code
+
+      
 
  
       
