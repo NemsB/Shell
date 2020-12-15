@@ -33,3 +33,15 @@ _chown_ sert a changer le propriétaire.
 
     sudo
 _sudo_ est la commande qui permet de forcer notre machine a faire la commmande suivante.
+
+    pwd
+_pwd_ permet de savoir dans quel répertoire nous nous trouvons.
+
+    rm
+_rm_ permet de supprimer un ficher. _rm -d_ supprime lui un dossier.
+
+    cat
+_cat_ sert a modifier le contenu d'un fichier.
+
+    cp
+Comme les initiales laissaient à deviner, _cp_ sert à copier/coller un ficher, ou dossier.
