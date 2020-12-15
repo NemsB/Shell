@@ -44,6 +44,7 @@ Nous allons créer un ficher shell puis ensuite modifier le contenu du fichier p
        @utilisateur ~ % chmod 777 test.sh
        @utilisateur ~ % go run test.sh
        exemple
+       @utilisateur ~ %
        
 Voilà à travers l'exemple, le principe d'une variable dans Scrpt Shell.
 
