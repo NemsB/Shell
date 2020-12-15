@@ -24,5 +24,8 @@ Pour coder une condition, il y a cinq mots de base :
       si la condition n'est pas vérifiée, afficher/effectuer ...
     fi
  
+ 
+
+ 
       
 
