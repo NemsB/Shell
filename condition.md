@@ -36,9 +36,14 @@ Tout d'abord le _code_
             echo "fallait avoir la ref mec"
       fi
 
-Maintenant quand on test le code
+Maintenant quand on test le code qui codé en shell
 
-      
+      @utilisateur ~ % go run exemple.sh WHATS UP
+      fallait avoir la ref mec
+      @utilisateur ~ % go run exemple.sh DAMMMMMMN
+      Okkkk boyyyy
+      @utilisateur ~ %
+
 
  
       
