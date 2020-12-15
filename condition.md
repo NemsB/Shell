@@ -44,6 +44,22 @@ Maintenant quand on test le code qui codé en shell
       Okkkk boyyyy
       @utilisateur ~ %
 
+## Comparer des nombres, valeur, ..
+
+Il y a la commande double parenthèse (()) et la commande entre crochet [ ] .
+        
+      (( val == vel)) => vérifie si val est égal à vel <= [ $val -eq $vel ]
+      (( val != vel)) => vérifie si val n'est pas égal à vel <= [ $val -ne $vel ]
+      (( val >= vel)) => vérifie si val est supérieur ou égal à vel <= [ $val -ge $vel ]
+      (( val <= vel)) => vérifie si val est inférieur ou égal à vel <= [ $nb1 -le $nb2 ]
+      (( val > vel)) => vérifie si val est strictement supérieur à vel <= [ $val -gt $vel ]
+      (( val < vel)) => vérifie si val est strictement inférieur à vel <= [ $val -lt $vel ]
+      
+
+	
+      
+      
+
 
  
       
