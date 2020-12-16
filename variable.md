@@ -8,7 +8,7 @@ Une variable se créer comme cela :
 
      var=exemple
 
-Le nom _var_ à marquer le contenu _exemple_.
+Le nom _var_ a marquer le contenu _exemple_.
 
 Pour mieux comprendre on peux faire l'exemple d'afficher le contenu de _var_.
 
