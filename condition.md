@@ -18,7 +18,7 @@ Pour coder une condition, il y a cinq mots de base :
  
  Cela resemblera à cela :
  
-    if [condition a vérifer], then
+    if [condition à vérifer], then
       si la condition est vérifiée, afficher/effectuer ...
     else
       si la condition n'est pas vérifiée, afficher/effectuer ...
