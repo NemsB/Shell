@@ -63,4 +63,4 @@ En code, la fonction ressemblerai à cela :
         afficher/effectuer...
     done
   
-        
+Cela veux enfaite dire que, pour la donnée qui fait partie soit de la donnée 1, de la donnée 2 ou de la donnée 3, afficher/actuer l'action;
