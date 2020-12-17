@@ -13,3 +13,8 @@ L'année suivante la distribution BSD (Berkeley Software Distribution), sous la 
 Cinq années plus tard, en 1983, le C shell incorporait des fonctionnalités du système Tenex. Tenex rajoutait en plus des noms de chemin et de fichier ainsi que l'édition de la ligne de commande. Ceci donna le C shell Tenex (tcsh), et ce fut l'oeuvre de Ken Greer. Il était compatible avec le C shell tout en l'améliorant.
 
 Parallèlement mais durant la même pédiode, David Korn développa le Korn shell. Il ajouta ici la possiblité au Bourn Shell de créer des scripts.
+Ce n'est qu'en 2000 qu'il sera modifié puisqu'il sera libérer en open source (il fournit les fonctionnalités d'autre shell).
+
+Ensuite l'ont voulu changer, le Bourne Shell était dépassé. C'est ce qu'a fait Brian Fox, qui créa alors le Bourne Again Shell (bash) et deviens par la suite l'un des shells les plus repandus. Il s'agit d'enfaite un projet GNU (système d'exploitation libre) open source.
+
+Enfin en dernier lieu viens le Z Shell, ou Zorn Shell. Il fut initialement créé en 1990 par Paul Falstad (étudiant à l'université de Princeton). C'est enfaite une sorte de Bourne Shell avec beaucoup d'amélioration, il reprend d'ailleur les meilleurs fonctionnalités du Bourne Again Shell,du Korn Shell et du C Shell Tenex. Il s'agit du plus récent shell, je l'utilise d'ailleur pour mon ordinateur, mais il n'est pas disposible sur toutes les machines, ce qui le rend pour certain inaccessible .
