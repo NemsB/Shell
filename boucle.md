@@ -3,7 +3,7 @@
 ## Qu'est-ce qu'une boucle ?
 
 Une boucle sert une peu comme une condition. C'est enfaite quand un événement, action se déroule quand est atteint son but, ce pour quoi a été créé et pas avant.
-C'est la reviens à peu a dire que TANT QUE la condition n'est pas rempli ou qu'elle n'a pas artteint son maximum, le programme continuera a s'exécuter.
+C'est la reviens à peu a dire que TANT QUE la condition n'est pas rempli ou qu'elle n'a pas atteint son maximum, le programme continuera a s'exécuter.
 
 ## Code
 
