@@ -2,7 +2,7 @@
 
 ## Qu'est-ce qu'une boucle ?
 
-Une boucle sert une peu comme une condition. C'est enfaite quand un évênement, action se déroule quand est atteint son but, ce pour quoi a été créé et pas avant.
+Une boucle sert une peu comme une condition. C'est enfaite quand un événement, action se déroule quand est atteint son but, ce pour quoi a été créé et pas avant.
 C'est la reviens à peu a dire que TANT QUE la condition n'est pas rempli ou qu'elle n'a pas artteint son maximum, le programme continuera a s'exécuter.
 
 ## Code
@@ -18,9 +18,9 @@ _While_ veux dire TANT QUE tandis que _for_ veux dire POUR.
  
  Quand on code une boucle _while_, il y a trois mots de base :
  
-        - while => veux dire TANT QUE, début d'une boucle
+        - while => veux dire TANT QUE, début de la boucle
         - do => veux dire ALORS FAIT
-        - done => veux dire TERMINÉ, fin d'une boucle
+        - done => veux dire TERMINÉ, fin de la boucle
     
  Cela ressemblera à cela :
  
@@ -48,6 +48,19 @@ _While_ veux dire TANT QUE tandis que _for_ veux dire POUR.
      Age of Nems ? 19
      @utilisateur ~ % 
      
-     
+ ## For
+ 
+ Quand on code une boucle _for_, il y a quatre mots de base :
+ 
+        - for => veux dire POUR, début de la boucle
+        - in => veux dire PARMIS
+        - do => veux dire ALORS FAIT
+        - done => veux dire TERMINÉ, fin de la boucle
+        
+En code, la fonction ressemblerai à cela :
+
+    for _donnée_ in _ _donnée1_ _donnée2_ _donnée3_; do
+        afficher/effectuer...
+    done
   
         
