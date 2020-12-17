@@ -26,7 +26,7 @@ Pour coder une condition, il y a cinq mots de base :
  
 ## Exemple
 
-Si la condtion est vérifié, alors le résulat sera 'Okkkk boyyyy', si se sera 'fallait avoir la ref mec'.
+Si la condtion est vérifié, alors le résulat sera 'Okkkk boyyyy', sinon se sera 'fallait avoir la ref mec'.
 
 Tout d'abord le _code_ 
 
