@@ -11,7 +11,5 @@ Mais là encore, le shell n'est pas assez complet, il n'a pas beaucoup de foncti
 L'année suivante la distribution BSD (Berkeley Software Distribution), sous la direction de l'informaticien Bill Joy, mit au point le C shell.
 
 Cinq années plus tard, en 1983, le C shell incorporait des fonctionnalités du système Tenex. Tenex rajoutait en plus des noms de chemin et de fichier ainsi que l'édition de la ligne de commande. Ceci donna le C shell Tenex (tcsh), et ce fut l'oeuvre de Ken Greer. Il était compatible avec le C shell tout en l'améliorant.
-`
-ohjhjiji
-jnbo
-Durant la ma
+
+Parallèlement mais durant la même pédiode, David Korn développa le Korn shell. Il ajouta ici la possiblité au Bourn Shell de créer des scripts.
