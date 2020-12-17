@@ -15,6 +15,6 @@ Nous étudierons tout les points de ce sommaire.
    c° [Les boucles](https://github.com/NemsB/Shell/blob/main/boucle.md#les-boucles)
 
 
-### Sources
+### [Sources](https://github.com/NemsB/Shell/blob/main/source.md)
 
 Mon avis : J'ai trouvé ce projet assez intéressant au final, même si je n'ai pas eu beaucoup de motivation pour m'y mettre. Sincèrement les premières séances, je n'avais vraiment pas fait grand chose dû au confinement qui m'avait fait perdre toute motivation. Mais celle-ci est revenue petit à petit et au final le projet est fini.
