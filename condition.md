@@ -2,7 +2,7 @@
 
 ## Qu'est-ce qu'une condition ?
 
-Une condition permet d'exécuter une opération SI la contidion est vérifiée par le programme.
+Une condition permet d'exécuter une opération SI celle-ci est vérifiée .
 
 Autrement dit, SI la réponse rentre dans les critères de la condition, ALORS cela affichera un certain résulat. Et SI la réponse ne rentre pas dans les critères de la condition, ALORS il affichera un autre résultat.
 
