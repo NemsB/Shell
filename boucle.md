@@ -30,5 +30,24 @@ _While_ veux dire TANT QUE tandis que _for_ veux dire POUR.
   
   ### Exemple
   
+  Imaginons que tant que l'âge de Nems n'est pas trouvé, le programme continuera.
+  
+  Tout d'abord le code :
+  
+    while [ -z $age ] || [ $age = '19' ]; do
+        read -p 'Age of Nems ? ' age
+    done
+
+ Maintenant quand on test se code :
+ 
+     @utilisateur ~ % go run exemple.sh
+     Age of Nems ? 30
+     Age of Nems ? 15
+     Age of Nems ? 20
+     Age of Nems ? 18
+     Age of Nems ? 19
+     @utilisateur ~ % 
+     
+     
   
         
