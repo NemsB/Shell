@@ -44,7 +44,7 @@ Maintenant quand on test le code qui codé en shell
       Okkkk boyyyy
       @utilisateur ~ %
 
-## Comparer des nombres, valeur, ..
+## Comparer des nombres, valeurs, ..
 
 Il y a la commande double parenthèse (()) et la commande entre crochet [ ] .
         
