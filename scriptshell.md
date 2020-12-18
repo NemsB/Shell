@@ -12,4 +12,4 @@ Un script shell est comme un fichier texte exécutable par la machine mais qui d
 
 Pour créer un Script Shell, il faut que le fichier texte comprenne l'extention shell (qui doit donc finir par .sh), que le fichier est bien toutes les permitions requises, si ce n'est pas le cas il suffit d'utiliser la commande chmod suivit de 777 (qui donne tout les droits) et du nom du fichier. Il n'y a ensuite plus qu'à qu'à exécuter le fichier et le tour est joué.
 
-Pour terminer, un script shell commencera toujours par la ligne suivante : _#!/bin/sh_.
+Pour terminer, un script shell commencera toujours par la ligne suivante : _#!/bin/sh_ .
