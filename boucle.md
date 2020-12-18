@@ -38,7 +38,7 @@ _While_ veux dire TANT QUE tandis que _for_ veux dire POUR.
         read -p 'Age of Nems ? ' age
     done
 
- Maintenant quand on test se code :
+ Maintenant quand on test ce code :
  
      @utilisateur ~ % go run exemple.sh
      Age of Nems ? 30
@@ -57,10 +57,10 @@ _While_ veux dire TANT QUE tandis que _for_ veux dire POUR.
         - do => veux dire ALORS FAIT
         - done => veux dire TERMINÉ, fin de la boucle
         
-En code, la fonction ressemblerai à cela :
+Le code d'une boucle ressemblerai à cela :
 
     for _donnée_ in _ _donnée1_ _donnée2_ _donnée3_; do
         afficher/effectuer...
     done
   
-Cela veux enfaite dire que, pour la donnée qui fait partie soit de la donnée 1, de la donnée 2 ou de la donnée 3, afficher/actuer l'action;
+Cela veux enfaite dire que, pour la donnée qui fait partie soit de la donnée 1, de la donnée 2 ou de la donnée 3, afficher/actuer l'action.
