@@ -10,9 +10,9 @@ Nous étudierons tout les points de ce sommaire.
 ### 3- [Histoire du shell](https://github.com/NemsB/Shell/blob/main/histoire.md)
 ### 4- [Commandes](https://github.com/NemsB/Shell/blob/main/commande.md)
 ### 5- [Script shell](https://github.com/NemsB/Shell/blob/main/scriptshell.md)
-   a° [Les variables](https://github.com/NemsB/Shell/blob/main/variable.md#les-variables)
-   b° [Les conditions](https://github.com/NemsB/Shell/blob/main/condition.md#les-conditions)
-   c° [Les boucles](https://github.com/NemsB/Shell/blob/main/boucle.md#les-boucles)
+   || [Les variables](https://github.com/NemsB/Shell/blob/main/variable.md#les-variables)
+   || [Les conditions](https://github.com/NemsB/Shell/blob/main/condition.md#les-conditions)
+   || [Les boucles](https://github.com/NemsB/Shell/blob/main/boucle.md#les-boucles)
 
 
 ### [Sources](https://github.com/NemsB/Shell/blob/main/source.md)
